@@ -13,4 +13,13 @@
 #   y2 = -85
 #
 #   distance from (5, 10) to (35, -85) is 99.6423
+x1 = int(input('please enter a whole number for x1: '))
+y1 = int(input('please enter another whole number for y1: '))
 
+x2 = int(input('now we\'re almost done, please enter another whole number: '))
+y2 = int(input('ok one more whole number please: '))
+
+d = ((x2 - x1) ** 2 + (y2 - y1) ** 2) ** 1/2
+
+
+print('ok so the distance between', x2, '-', x1, 'and', y2, '-', y1, 'on a two dimensional plane is', d)

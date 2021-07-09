@@ -2,19 +2,19 @@ name: <name here>
 date: <date here>
 
 1 - What is output? What is an example of an output device?
-
+An output is data that a computer sends to either a user or another device. An example of an output device would be the text on a google doc showing up on your computer screen as you're typing it. 
 
 2 - What is input? What is an example of an input device?
-
+An input is data a computer receives from either a user or another device. An example of an input device would be the words or number that the keys on your laptop put in.
 
 3 - What function do we use to output to the user?
-
+We use the function print() to output to the user.
 
 4 - What function do we use to get input to the user?
-
+We use the function input() to get input to the user.
 
 5 - What is the argument that input takes? Why is it important?
-
+The arguement that input takes is 
 
 6 - What data type does input return? What can we do to get different types of data?
 
